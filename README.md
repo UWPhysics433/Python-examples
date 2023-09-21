@@ -10,4 +10,7 @@ Then the notebook gives some quick examples of how to read data sets into Python
 Example shows how to construct a multiparameter fitting function from LMFit Models. Here, a fit is made to two spectrum peaks plus a linear background.
 
 ### [Exploring uncertainty propagation with Python](https://github.com/UWPhysics433/Python-examples/blob/main/Exploring%20uncertainty%20propagation%20with%20Python.ipynb)
-This notebook is part of a lecture that shows how uncertainty propagation calculations relate to predicting the statistical distribution of a calculated experimental value from the statistical distributions of the quantities that went into the calculation.  Also shows the use of the [Uncertainties] package.
+This notebook is part of a lecture that shows how uncertainty propagation calculations relate to predicting the statistical distribution of a calculated experimental value from the statistical distributions of the quantities that went into the calculation.  Also shows the use of the [Uncertainties](https://pythonhosted.org/uncertainties/) package.
+
+### [Python Use Examples by Olmstead and Pengra](https://github.com/UWPhysics433/Python-examples/blob/main/Python%20Use%20Examples%20by%20Olmstead%20and%20Pengra.ipynb)
+A comprehensive collection of examples of using Python and various libraries to carry out data analysis tasks.  Almost any standard data analysis step (reading in data, manipulating data arrays, printing, making tables, propagating ucertainty, plotting, line fitting, etc. is here.  Originally written by Prof. Marjorie Olmstead, with additions and a table of contents by David Pengra.  (Note, the internal links only work when the notebook is loaded into an active Jupyter session.)
