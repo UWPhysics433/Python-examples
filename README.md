@@ -14,3 +14,6 @@ This notebook is part of a lecture that shows how uncertainty propagation calcul
 
 ### [Python Use Examples by Olmstead and Pengra](https://github.com/UWPhysics433/Python-examples/blob/main/Python%20Use%20Examples%20by%20Olmstead%20and%20Pengra.ipynb)
 A comprehensive collection of examples of using Python and various libraries to carry out data analysis tasks.  Almost any standard data analysis step (reading in data, manipulating data arrays, printing, making tables, propagating ucertainty, plotting, line fitting, etc. is here.  Originally written by Prof. Marjorie Olmstead, with additions and a table of contents by David Pengra.  (Note, the internal links only work when the notebook is loaded into an active Jupyter session.)
+
+### [Uncertainties Quick Start](https://github.com/UWPhysics433/Python-examples/blob/main/Uncertainties%20Quick%20Start.ipynb)
+If all you want to do is see how to use the Uncertainties package, look here.  The examples also show how to combine uncertainties from various sources and calculate how much uncertainty each source contributes to the final value.  
